@@ -1,25 +1,32 @@
-import logo from './logo.svg';
 import './App.css';
+import React  from 'react';
+import Header from './Header';
+import Sidenav from './Sidenav';
+import Body from './Body';
+import Subheader from './Subheader';
+import Footer from './Footer';
+import suggestions_1 from "./shared/suggestions";
+import links_1 from './shared/links';
+import { Component } from 'react';
+import right_banner from './shared/right_banner.jpg';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+
+  render(){
+     return (
+       <div className="app">
+         <Header />
+         <Subheader />
+         <div className="main">
+           <Sidenav />
+           <Body links_1={links_1} suggestions={suggestions_1} />
+           <img src={right_banner} alt="right_banner" />
+         </div>
+         <Footer />
+       </div>
+     );
+  }
+ 
 }
 
 export default App;

@@ -1,0 +1,33 @@
+.subheader{
+    display: flex;
+    height: 5vh;
+    background-color: #ffcc09;
+    background: linear-gradient(
+        300deg,
+        transparent,
+        transparent 70%,
+        #ffcc09 10px,
+        #ffcc09 20px
+    );
+}
+
+.icon_1,.icon_2, .icon_3, .icon_login {
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.icon_login {
+    margin-left: 5%;
+    align-items: center;
+}
+
+.icon_login:hover{
+    cursor: pointer;
+    color: white;
+}
+.icon_1:hover,.icon_2:hover, .icon_3:hover {
+    cursor: pointer;
+}

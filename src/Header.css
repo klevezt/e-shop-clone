@@ -1,0 +1,49 @@
+.header{
+    display: flex;
+    height: 12vh;
+    width: 98.5vw;
+    background-image: linear-gradient(#ffef6b, #ffcc09);
+}
+
+.header__logo{
+    cursor: pointer;
+}
+
+.header__search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 10px 10px 10px;
+}
+
+.header__search > input {
+    height: 35px;
+    width: 200px;
+    font-size: 25px;
+    padding-left: 10px;
+} 
+
+.header__search__icon{
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.header__right{   
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    height: auto;
+    font-weight: 700;
+}
+
+.info_1,.info_2, .info_3 {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    font-size: 12px;
+    width: 70%;
+}
+
+.info_2{
+    cursor: pointer;
+}

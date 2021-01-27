@@ -8,7 +8,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 0,
         title: "Υπολογιστές",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -136,7 +136,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 2,
         title: "Hardware",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -233,7 +233,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 1,
         title: "Περιφερειακά",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -375,7 +375,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 3,
         title: "Δικτυακά",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -480,7 +480,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 4,
         title: "Εφαρμογές",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -510,7 +510,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 0,
         title: "Τηλεοράσεις",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -563,7 +563,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 1,
         title: "Ψηφιακές Μηχανές",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -632,7 +632,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 2,
         title: "Εικόνα",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -679,7 +679,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 3,
         title: "Ήχος",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -744,7 +744,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 4,
         title: "Περιφερειακά",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -796,7 +796,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 5,
         title: "Accessories",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -836,7 +836,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 0,
         title: "Συσκευές",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -913,7 +913,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 3,
         title: "Αξεσουάρ Κινητών",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1005,7 +1005,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 1,
         title: "Κάρτες μνήμης",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1022,7 +1022,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 2,
         title: "Wizard Κινητών",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1034,7 +1034,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 4,
         title: "VOIP",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1069,7 +1069,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 0,
         title: "Ψυγεία",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1106,7 +1106,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 1,
         title: "Κουζίνες - Απορροφητήρες",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1143,7 +1143,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 2,
         title: "Πλυντήρια",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1170,7 +1170,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 3,
         title: "Κλιματισμός - Θέρμανση",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1230,7 +1230,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 1,
         title: "Μηχανές Καφέ - Χυμού",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1287,7 +1287,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 2,
         title: "Υγεία",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1334,7 +1334,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 3,
         title: "Φωτισμός",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1361,7 +1361,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 4,
         title: "Συσκευές μαγειρικής",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1438,7 +1438,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 5,
         title: "Συσκευές περιποιήσης",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1485,7 +1485,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 6,
         title: "Καθάρισμα - Σιδέρωμα",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1540,7 +1540,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 0,
         title: "Δράπανα - Κατσαβίδια",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1567,7 +1567,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 1,
         title: "Σπίτι - Αυτοκίνητο",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1624,7 +1624,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 2,
         title: "Κήπος",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1676,7 +1676,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 3,
         title: "Βαφή - Διακόσμηση",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -1720,41 +1720,196 @@ export const SIDEBAR_MENU = [
     category: [
       {
         cat_id: 0,
-        title: "Υπολογιστές",
-        img: "",
+        title: "Έγχορδα",
+
         content: [
           {
             content_id: 0,
-            title: "PC Configurator",
-            subtitle: [],
-          },
-          {
-            content_id: 1,
-            title: "PC Configurator",
+            title: "Κιθάρες",
             subtitle: [
               {
                 s_id: 0,
-                s_title: "Για gamers",
+                s_title: "Ηλεκτρικές",
               },
               {
                 s_id: 1,
-                s_title: "Για σχεδιαστές",
-              },
-              {
-                s_id: 2,
-                s_title: "Για φοιτητές",
+                s_title: "Ακουστικές",
               },
             ],
           },
           {
-            content_id: 2,
-            title: "All in one desktops",
+            content_id: 1,
+            title: "Μπάσα",
             subtitle: [],
           },
           {
+            content_id: 2,
+            title: "Ενισχυτές κιθάρας-μπάσου",
+            subtitle: [
+              {
+                s_id: 0,
+                s_title: "Ηλεκτρική κιθάρα",
+              },
+              {
+                s_id: 1,
+                s_title: "Μπάσου",
+              },
+            ],
+          },
+          {
             content_id: 3,
-            title: "Servers",
+            title: "Εφέ - πετάλια",
             subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Αξεσουάρ κιθάρας-μπάσου",
+            subtitle: [
+              {
+                s_id: 0,
+                s_title: "Πένες",
+              },
+              {
+                s_id: 1,
+                s_title: "Θήκες",
+              },
+              {
+                s_id: 2,
+                s_title: "Βάσεις",
+              },
+            ],
+          },
+          {
+            content_id: 5,
+            title: "Έγχορδα ορχήστρας",
+            subtitle: [
+              {
+                s_id: 0,
+                s_title: "Βιολιά",
+              },
+              {
+                s_id: 1,
+                s_title: "Τσέλο",
+              },
+              {
+                s_id: 2,
+                s_title: "Ukelele",
+              },
+            ],
+          },
+          {
+            content_id: 6,
+            title: "Χορδές",
+            subtitle: [
+              {
+                s_id: 0,
+                s_title: "Ηλεκτρικής κιθάρας",
+              },
+              {
+                s_id: 1,
+                s_title: "Ηλεκτρικού μπάσου",
+              },
+            ],
+          },
+          {
+            content_id: 7,
+            title: "Accessories οργάνων",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 1,
+        title: "Κρουστά",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Drums",
+            subtitle: [
+              {
+                s_id: 0,
+                s_title: "Set",
+              },
+              {
+                s_id: 1,
+                s_title: "Ταμπούρα",
+              },
+              {
+                s_id: 2,
+                s_title: "Πιατίνια",
+              },
+            ],
+          },
+          {
+            content_id: 1,
+            title: "Κρουστά",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Αξεσουάρ κρουστών",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 2,
+        title: "Πλήκτρα",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Πλήκτρα",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Πιάνο",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 3,
+        title: "Πνευστά",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Πνευστά",
+            subtitle: [
+              {
+                s_id: 0,
+                s_title: "Φλάουτο",
+              },
+              {
+                s_id: 1,
+                s_title: "Σαξόφωνο",
+              },
+              {
+                s_id: 2,
+                s_title: "Τρομπέτα",
+              },
+            ],
+          },
+          {
+            content_id: 1,
+            title: "Αξεσουάρ πνευστών",
+            subtitle: [
+              {
+                s_id: 0,
+                s_title: "Επιστόμια",
+              },
+              {
+                s_id: 1,
+                s_title: "Καλάμια",
+              },
+              {
+                s_id: 2,
+                s_title: "Βάσεις",
+              },
+            ],
           },
         ],
       },
@@ -1768,40 +1923,200 @@ export const SIDEBAR_MENU = [
     category: [
       {
         cat_id: 0,
-        title: "Υπολογιστές",
-        img: "",
+        title: "Συστήματα Συναγερμού",
+
         content: [
           {
             content_id: 0,
-            title: "PC Configurator",
+            title: "Συναγερμοί",
             subtitle: [],
           },
           {
             content_id: 1,
-            title: "PC Configurator",
-            subtitle: [
-              {
-                s_id: 0,
-                s_title: "Για gamers",
-              },
-              {
-                s_id: 1,
-                s_title: "Για σχεδιαστές",
-              },
-              {
-                s_id: 2,
-                s_title: "Για φοιτητές",
-              },
-            ],
+            title: "Κεντρικές μονάδες συναγερμών",
+            subtitle: [],
           },
           {
             content_id: 2,
-            title: "All in one desktops",
+            title: "Πληκτρολόγια",
             subtitle: [],
           },
           {
             content_id: 3,
-            title: "Servers",
+            title: "IR Ανιχνευτές",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Ανιχνευτές θραύσης",
+            subtitle: [],
+          },
+          {
+            content_id: 5,
+            title: "Ανιχνευτές καπνού",
+            subtitle: [],
+          },
+          {
+            content_id: 6,
+            title: "Σειρήνες",
+            subtitle: [],
+          },
+          {
+            content_id: 7,
+            title: "Wireless Security",
+            subtitle: [],
+          },
+          {
+            content_id: 8,
+            title: "Μαγνητικές επαφές",
+            subtitle: [],
+          },
+          {
+            content_id: 9,
+            title: "Inframed Beam",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 1,
+        title: "Alarm Accessories",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Μπαταρίες Συναγερμών",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Τροφοδοτικά συναγερμών",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Καλώδια συναγερμών",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 2,
+        title: "Συστήματα Ασφαλείας",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Χρηματοκιβώτια",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Κλειδαριές - Λουκέτα",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Θυροτηλέφωνα - Κουδούνια",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "Ανιχνευτές - Καταμετρητές Χαρτονομισμάτων",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Προβολείς",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 3,
+        title: "Παρακολούθηση",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Συστήματα Παρακολούθησης",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Καταγραφικά",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "IP Cameras",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "Analog CCTV Cameras",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Μικρόφωνα",
+            subtitle: [],
+          },
+          {
+            content_id: 5,
+            title: "IR LED προβολείς",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 4,
+        title: "Accessories Καμερών",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Βάσεις στήριξης καμερών",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Καλύμματα καμερών",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Καλώδια καμερών",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "Τροφοδοτικά καμερών",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Φακοί καμερών",
+            subtitle: [],
+          },
+          {
+            content_id: 5,
+            title: "Βύσματα καμερών",
+            subtitle: [],
+          },
+          {
+            content_id: 6,
+            title: "Quad - Switchers",
+            subtitle: [],
+          },
+          {
+            content_id: 7,
+            title: "Εγκατάσταση συναγερμών - καμερών",
+            subtitle: [],
+          },
+          {
+            content_id: 8,
+            title: "Υπηρασία υποστήριξης συναγερμού",
             subtitle: [],
           },
         ],
@@ -1815,41 +2130,359 @@ export const SIDEBAR_MENU = [
     bg_yellow_color: false,
     category: [
       {
-        cat_id: 6,
-        title: "Υπολογιστές",
-        img: "",
+        cat_id: 0,
+        title: "PC",
+
         content: [
           {
             content_id: 0,
-            title: "PC Configurator",
+            title: "PC Games",
             subtitle: [],
           },
           {
             content_id: 1,
-            title: "PC Configurator",
-            subtitle: [
-              {
-                s_id: 0,
-                s_title: "Για gamers",
-              },
-              {
-                s_id: 1,
-                s_title: "Για σχεδιαστές",
-              },
-              {
-                s_id: 2,
-                s_title: "Για φοιτητές",
-              },
-            ],
+            title: "PC Accessories",
+            subtitle: [],
           },
           {
             content_id: 2,
-            title: "All in one desktops",
+            title: "PC Games Preorders",
             subtitle: [],
           },
           {
             content_id: 3,
-            title: "Servers",
+            title: "PC Games Offers",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Retro Games",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 1,
+        title: "XBOX S",
+
+        content: [
+          {
+            content_id: 0,
+            title: "XBOX S Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "XBOX S Consoles",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "XBOX S Accessories",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "XBOX S Preorders",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "XBOX S Offers",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 2,
+        title: "XBOX 360",
+
+        content: [
+          {
+            content_id: 0,
+            title: "XBOX 360 Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "XBOX 360 Accessories",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "XBOX 360 Prepaid Cards",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "XBOX 360 Offers",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 3,
+        title: "XBOX ONE",
+
+        content: [
+          {
+            content_id: 0,
+            title: "XBOX ONE Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "XBOX ONE Consoles",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "XBOX ONE Accessories",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "XBOX ONE Preorders",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "XBOX ONE Offers",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 4,
+        title: "PLAYSTATION 5",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Playstation 5 Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Playstation 5 Consoles",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Playstation 5 Accessories",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "Playstation 5 Preorders",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Playstation 5 Offers",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 5,
+        title: "PLAYSTATION 4",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Playstation 4 Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Playstation 4 Consoles",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Playstation 4 Accessories",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "Playstation 4 Preorders",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Playstation 4 Offers",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 6,
+        title: "PLAYSTATION 3",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Playstation 3 Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Playstation 3 Accessories",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Playstation 3 Offers",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 7,
+        title: "PLAYSTATION VITA",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Playstation Vita Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Playstation Vita Consoles",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Playstation Vita Accessories",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 8,
+        title: "NINTENDO WII",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Nintendo Wii Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Nintendo Wii Accessories",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Nintendo Wii Offers",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 9,
+        title: "NINTENDO SWITCH",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Nintendo Switch Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Nintendo Switch Consoles",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 10,
+        title: "NINTENDO WII U",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Nintendo Wii U Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Nintendo Wii U Consoles",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Nintendo Wii U Accessories",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "Nintendo Wii U Preorders",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Nintendo Wii U Offers",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 11,
+        title: "NINTENDO DS",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Nintendo DS Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Nintendo DS Accessories",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Nintendo DSI",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 12,
+        title: "NINTENDO 3DS",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Nintendo 3DS Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Nintendo 3DS Consoles",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 13,
+        title: "PSP",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Playstation Portable Games",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Playstation Portable Accessories",
             subtitle: [],
           },
         ],
@@ -1863,41 +2496,296 @@ export const SIDEBAR_MENU = [
     bg_yellow_color: false,
     category: [
       {
-        cat_id: 7,
-        title: "Υπολογιστές",
-        img: "",
+        cat_id: 0,
+        title: "Τεχνολογία",
+
         content: [
           {
             content_id: 0,
-            title: "PC Configurator",
+            title: "Ηλεκτρονικές Κορνίζες",
             subtitle: [],
           },
           {
             content_id: 1,
-            title: "PC Configurator",
-            subtitle: [
-              {
-                s_id: 0,
-                s_title: "Για gamers",
-              },
-              {
-                s_id: 1,
-                s_title: "Για σχεδιαστές",
-              },
-              {
-                s_id: 2,
-                s_title: "Για φοιτητές",
-              },
-            ],
+            title: "Μετεωρολογικοί Σταθμοί",
+            subtitle: [],
           },
           {
             content_id: 2,
-            title: "All in one desktops",
+            title: "Κινητά - Tablets",
             subtitle: [],
           },
           {
             content_id: 3,
-            title: "Servers",
+            title: "Spy",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Healthcare",
+            subtitle: [],
+          },
+          {
+            content_id: 5,
+            title: "Smart",
+            subtitle: [],
+          },
+          {
+            content_id: 6,
+            title: "Electronics",
+            subtitle: [],
+          },
+          {
+            content_id: 7,
+            title: "Sportwatches",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 1,
+        title: "Σπίτι - Γραφείο",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Μπάνιο",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Κουζίνα",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Φωτισμός",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "Ρολόγια",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Γραφείου",
+            subtitle: [],
+          },
+          {
+            content_id: 5,
+            title: "USB",
+            subtitle: [],
+          },
+          {
+            content_id: 6,
+            title: "Lifecycle",
+            subtitle: [],
+          },
+          {
+            content_id: 7,
+            title: "Διασκέδαση",
+            subtitle: [],
+          },
+          {
+            content_id: 8,
+            title: "Gaming chairs",
+            subtitle: [],
+          },
+          {
+            content_id: 9,
+            title: "T-shirts",
+            subtitle: [],
+          },
+          {
+            content_id: 10,
+            title: "Gadgets σειρών, ταινιών, comic",
+            subtitle: [],
+          },
+          {
+            content_id: 11,
+            title: "Κυάλια",
+            subtitle: [],
+          },
+          {
+            content_id: 12,
+            title: "Τηλεσκόπια",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 2,
+        title: "Εξωτερικοί Χώροι",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Μπρελόκ",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Auto - Moto",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Τσάντες",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "Μοντελισμός",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Drones",
+            subtitle: [],
+          },
+          {
+            content_id: 5,
+            title: "Hoverboards - e-scooters",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 3,
+        title: "Παιχνίδια",
+
+        content: [
+          {
+            content_id: 0,
+            title: "Επιτραπέζια",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Εκπαιδευτικά - STEM",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Ταξιδιού",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "Puzzle",
+            subtitle: [
+              {
+                s_id: 0,
+                s_title: "500 pcs",
+              },
+              {
+                s_id: 1,
+                s_title: "1000 pcs",
+              },
+              {
+                s_id: 2,
+                s_title: "2000 pcs",
+              },
+            ],
+          },
+          {
+            content_id: 4,
+            title: "Playmobil",
+            subtitle: [],
+          },
+          {
+            content_id: 5,
+            title: "LEGO",
+            subtitle: [],
+          },
+          {
+            content_id: 6,
+            title: "Hobby",
+            subtitle: [],
+          },
+          {
+            content_id: 7,
+            title: "Ήρωες",
+            subtitle: [
+              {
+                s_id: 0,
+                s_title: "Barbie",
+              },
+              {
+                s_id: 1,
+                s_title: "Cars",
+              },
+              {
+                s_id: 2,
+                s_title: "Minions",
+              },
+              {
+                s_id: 3,
+                s_title: "Disney",
+              },
+              {
+                s_id: 4,
+                s_title: "PJ Masks",
+              },
+              {
+                s_id: 5,
+                s_title: "Transformers",
+              },
+              {
+                s_id: 6,
+                s_title: "Paw Patrol",
+              },
+            ],
+          },
+          {
+            content_id: 8,
+            title: "Μινιατούρες αυτοκινήτων",
+            subtitle: [],
+          },
+          {
+            content_id: 9,
+            title: "Γρίφοι",
+            subtitle: [],
+          },
+          {
+            content_id: 10,
+            title: "Card games",
+            subtitle: [],
+          },
+          {
+            content_id: 11,
+            title: "Όπλα με αφρώδη βελάκια - Nerf",
+            subtitle: [],
+          },
+          {
+            content_id: 12,
+            title: "Dartboard",
+            subtitle: [],
+          },
+          {
+            content_id: 13,
+            title: "Arcade games",
+            subtitle: [],
+          },
+          {
+            content_id: 14,
+            title: "Meccano",
+            subtitle: [],
+          },
+          {
+            content_id: 15,
+            title: "Hexbug",
+            subtitle: [],
+          },
+          {
+            content_id: 16,
+            title: "Play Doh",
+            subtitle: [],
+          },
+          {
+            content_id: 17,
+            title: "Playskool",
             subtitle: [],
           },
         ],
@@ -1912,40 +2800,302 @@ export const SIDEBAR_MENU = [
     category: [
       {
         cat_id: 0,
-        title: "Υπολογιστές",
-        img: "",
+        title: "Αναλώσιμα",
+
         content: [
           {
             content_id: 0,
-            title: "PC Configurator",
+            title: "Μελανοταινίες συμβατές",
             subtitle: [],
           },
           {
             content_id: 1,
-            title: "PC Configurator",
-            subtitle: [
-              {
-                s_id: 0,
-                s_title: "Για gamers",
-              },
-              {
-                s_id: 1,
-                s_title: "Για σχεδιαστές",
-              },
-              {
-                s_id: 2,
-                s_title: "Για φοιτητές",
-              },
-            ],
+            title: "Μελανοταινίες αυθεντικές",
+            subtitle: [],
           },
           {
             content_id: 2,
-            title: "All in one desktops",
+            title: "Αναλώσιμα φωτοαντιγραφικών",
             subtitle: [],
           },
           {
             content_id: 3,
-            title: "Servers",
+            title: "Αναλώσιμα fax",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Αναλώσιμα inkjet εκτυπωτών",
+            subtitle: [],
+          },
+          {
+            content_id: 5,
+            title: "Αναλώσιμα laser εκτυπωτών",
+            subtitle: [],
+          },
+          {
+            content_id: 6,
+            title: "Αναλώσιμα barcode εκτυπωτών",
+            subtitle: [],
+          },
+          {
+            content_id: 7,
+            title: "Αναλώσιμα 3D εκτυπωτών",
+            subtitle: [],
+          },
+          {
+            content_id: 8,
+            title: "Kit συντήρησης εκτυπωτών",
+            subtitle: [],
+          },
+          {
+            content_id: 9,
+            title: "Χαρτιά - Διαφάνειες",
+            subtitle: [],
+          },
+          {
+            content_id: 10,
+            title: "Ετικέτες",
+            subtitle: [],
+          },
+          {
+            content_id: 11,
+            title: "Αυτοκόλλητα",
+            subtitle: [],
+          },
+          {
+            content_id: 12,
+            title: "Αναζήτηση αναλώσιμων βάσει μοντέλου",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 1,
+        title: "CD/DVD - TAPES - Θήκες",
+
+        content: [
+          {
+            content_id: 0,
+            title: "DVD - CD Blu Ray",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Tapes - Zip",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Θήκες CD - DVD",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 2,
+        title: "Μπαταρίες - Φακοί",
+        content: [
+          {
+            content_id: 0,
+            title: "Μπαταρίες - Φορτιστές",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Φακοί",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 3,
+        title: "Λάμπες - Φωτιστικά",
+        content: [
+          {
+            content_id: 0,
+            title: "Λάμπες - LED",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Φωτιστικά",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Ρολόγια",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 4,
+        title: "Προστασία Από Ιούς Και Covid-19",
+        content: [
+          {
+            content_id: 0,
+            title: "Μάσκες προσώπου",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Αντισηπτικά - Καθαριστικά",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 5,
+        title: "Γραφή - Σχεδίαση",
+        content: [
+          {
+            content_id: 0,
+            title: "Στυλό",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Μαρκαδόροι",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Μολύβια",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "Ζωγραφική",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Γόμες",
+            subtitle: [],
+          },
+          {
+            content_id: 5,
+            title: "Διορθωτικά",
+            subtitle: [],
+          },
+          {
+            content_id: 6,
+            title: "Ξύστρες",
+            subtitle: [],
+          },
+          {
+            content_id: 7,
+            title: "Όργανα σχεδίου",
+            subtitle: [],
+          },
+          {
+            content_id: 8,
+            title: "Διαβήτες",
+            subtitle: [],
+          },
+          {
+            content_id: 9,
+            title: "Σημειώσεις - Τετράδια",
+            subtitle: [],
+          },
+          {
+            content_id: 10,
+            title: "Ημερολόγια",
+            subtitle: [],
+          },
+          {
+            content_id: 11,
+            title: "Εκπαιδευτικά",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 6,
+        title: "Οργάνωση - Αρχειοθέτηση",
+        content: [
+          {
+            content_id: 0,
+            title: "Αποθήκευση",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Οργάνωση",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Τσάντες",
+            subtitle: [
+              {
+                s_id: 0,
+                s_title: "Σχολικές τσάντες",
+              },
+              {
+                s_id: 1,
+                s_title: "Κασετίνες",
+              },
+              {
+                s_id: 2,
+                s_title: "Ταξιδιού",
+              },
+              {
+                s_id: 3,
+                s_title: "Σακίδια",
+              },
+            ],
+          },
+          {
+            content_id: 3,
+            title: "Λογιστικά έντυπα",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Χρηματοκιβώτια",
+            subtitle: [],
+          },
+          {
+            content_id: 5,
+            title: "Κλειδαριές - Λουκέτα",
+            subtitle: [],
+          },
+          {
+            content_id: 6,
+            title: "Ανιχνευτές - Καταμετρητές χαρτονομισμάτων",
+            subtitle: [],
+          },
+        ],
+      },
+      {
+        cat_id: 7,
+        title: "Μηχανές Γραφείου",
+        content: [
+          {
+            content_id: 0,
+            title: "Αριθμομηχανές",
+            subtitle: [],
+          },
+          {
+            content_id: 1,
+            title: "Πλαστικοποιητές",
+            subtitle: [],
+          },
+          {
+            content_id: 2,
+            title: "Υλικά πλαστικοποίησης",
+            subtitle: [],
+          },
+          {
+            content_id: 3,
+            title: "Καταστροφείς εγγράφων",
+            subtitle: [],
+          },
+          {
+            content_id: 4,
+            title: "Ετικετογράφοι",
             subtitle: [],
           },
         ],
@@ -1961,7 +3111,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 0,
         title: "Υπολογιστές",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -2009,7 +3159,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 0,
         title: "Υπολογιστές",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -2057,7 +3207,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 0,
         title: "Υπολογιστές",
-        img: "",
+
         content: [
           {
             content_id: 0,
@@ -2105,7 +3255,7 @@ export const SIDEBAR_MENU = [
       {
         cat_id: 0,
         title: "Υπολογιστές",
-        img: "",
+
         content: [
           {
             content_id: 0,

@@ -7,6 +7,9 @@ import { Component } from 'react';
 import { Facebook, Twitter, YouTube } from '@material-ui/icons';
 import SmartPhone from "./shared/sidebar_smartphone.gif";
 
+import menu_1_afixeis_2_v48 from "./shared//menu_1_afixeis_2_v48.gif";
+import menu_1_afixeis_4_v32 from "./shared//menu_1_afixeis_4_v32.gif";
+
 class Sidenav extends Component {
   constructor(props) {
     super(props);
@@ -127,12 +130,12 @@ class Sidenav extends Component {
                 </div>
                 <div className="sidenav__hover__context_promotions">
                   <img
-                    src="https://www.e-shop.gr/images/menu_1_afixeis_2_v48.gif"
-                    alt="hhh"
+                    src={menu_1_afixeis_2_v48}
+                    alt=""
                   />
                   <img
-                    src="https://www.e-shop.gr/images/menu_1_afixeis_4_v32.gif"
-                    alt="hhh"
+                    src={menu_1_afixeis_4_v32}
+                    alt=""
                   />
                   <img
                     src="https://www.e-shop.gr/images/menu_1_wizard_laptop_opt.png"
